@@ -9,11 +9,11 @@
     },
     {
         "id": 2,
-        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
-        "name": "name 2",
-        "designation": "designation 2",
-        "mobile": "002",
-        "email": "email@test2.org"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/960px-Facebook_logo_%28square%29.png",
+        "name": "Facebook",
+        "designation": "User",
+        "mobile": "007",
+        "email": "fb@prempdr.xyz"
     },
     {
         "id": 3,
