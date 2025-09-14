@@ -1,34 +1,42 @@
 [
     {
         "id": 1,
-        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
-        "name": "Chairman 1",
-        "designation": "designation 1",
-        "mobile": "001",
-        "email": "email@test1.org"
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/8dbda1dc_0ed8_4d0f_8667_e776b30a02a8/2025-01-03-01-29-69bf073c8ddc7052e4d52b3e94261019.JPG",
+        "name": "মোঃ রেজানুর রহমান",
+        "designation": "চেয়ারম্যান",
+        "mobile": "০১৭৭৭৭০১৩১১",
+        "email": "petchair@petrobangla.org.bd"
     },
     {
         "id": 2,
-        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
-        "name": "Chairman 2",
-        "designation": "designation 2",
-        "mobile": "002",
-        "email": "email@test2.org"
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/a475371f_4ff6_42f6_b54d_9c070ea4b9a8/2020-03-01-16-02-c4d1d06d01e4876c38088b1041bb7478.JPG",
+        "name": "এম নাসিমুল আলীম",
+        "designation": "উপ-মহাব্যবস্থাপক (ভিজিলেন্স)",
+        "mobile": "০১৫৫২৩২৪৩৪১",
+        "email": "vigilance@petrobangla.org.bd"
     },
     {
         "id": 3,
-        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
-        "name": "Chairman 3",
-        "designation": "designation 3",
-        "mobile": "003",
-        "email": "email@test3.org"
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/379175a5_ac77_461c_b08e_8ce18528b00e/2020-08-06-09-46-fe328f0656f1ec8f3adbbe84e9d2e9fc.jpg",
+        "name": "মো: শহীদুল হক",
+        "designation": "উপ-মহাব্যবস্থাপক (একান্ত সচিব, চেয়ারম্যান) (অ.দা)",
+        "mobile": "০১৭১৭৮২৬২৬৮",
+        "email": "shahidul.haque@petrobangla.org.bd"
     },
     {
         "id": 4,
-        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
-        "name": "Chairman 4",
-        "designation": "designation 4",
-        "mobile": "004",
-        "email": "email@test4.org"
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/1ecda8a6_3f3c_4924_82d3_f6447bb76263/2023-07-11-07-58-ebdb28bc4f0e7fdde8b5e5cca606c9c4.jpg",
+        "name": "মুহাম্মদ লুৎফর রহমান",
+        "designation": "ব্যবস্থাপক (ভিজিলেন্স)",
+        "mobile": "০১৭১৮৬০২৪৬৯",
+        "email": "lutfar.rahman@petrobangla.org.bd"
+    },
+    {
+        "id": 5,
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/ea5295a4_943d_4648_8692_3e6bff56338f/2020-08-26-09-30-b4abbc46135de186053e694359aedc0f.jpg",
+        "name": "সৈকত মাহমুদ",
+        "designation": "উপ-ব্যবস্থাপক (চেয়ারম্যান শাখা)",
+        "mobile": "০১৬৭৬১৬৩৬৮৯",
+        "email": "saikat.mahmud@petrobangla.org.bd"
     }
 ]
