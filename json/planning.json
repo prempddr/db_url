@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
+        "name": "Planning 1",
+        "designation": "designation 1",
+        "mobile": "001",
+        "email": "email@test1.org"
+    },
+    {
+        "id": 2,
+        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
+        "name": "Planning 2",
+        "designation": "designation 2",
+        "mobile": "002",
+        "email": "email@test2.org"
+    },
+    {
+        "id": 3,
+        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
+        "name": "Planning 3",
+        "designation": "designation 3",
+        "mobile": "003",
+        "email": "email@test3.org"
+    },
+    {
+        "id": 4,
+        "image": "https://demo1.golpo365.xyz/book/volume_1_1.png",
+        "name": "Planning 4",
+        "designation": "designation 4",
+        "mobile": "004",
+        "email": "email@test4.org"
+    }
+]
