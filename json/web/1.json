@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "পেট্রোবাংলার গঠন ও ইতিহাস",
+        "name": "গঠন ও ইতিহাস",
         "url": "https://petrobangla.org.bd/site/page/97f30573-a225-40a8-a4c4-d93d9de60987/-",
         "file": "no"
     },
@@ -13,13 +13,13 @@
     },
     {
         "id": 3,
-        "name": "পেট্রোবাংলার চেয়ারম্যানবৃন্দের তালিকা",
+        "name": "চেয়ারম্যানবৃন্দের তালিকা",
         "url": "https://petrobangla.portal.gov.bd/sites/default/files/files/petrobangla.portal.gov.bd/files/661fb5b9_7f64_458c_a2fc_ea265b258dd9/2025-01-05-08-20-18f71835e275f8ac610d7b3ef1e848ff.pdf",
         "file": "yes"
     },
     {
         "id": 4,
-        "name": "পেট্রোবাংলা পরিচালনা পর্ষদ",
+        "name": "পরিচালনা পর্ষদ",
         "url": "https://petrobangla.org.bd/site/page/b65284ee-6c6a-4699-b54a-e100ad92cba6/-",
         "file": "no"
     },
@@ -43,20 +43,62 @@
     },
     {
         "id": 8,
-        "name": "যোগাযোগ",
-        "url": "https://petrobangla.org.bd/site/page/cc15c57d-7e3f-40e6-812b-023ae1abedc4/-",
-        "file": "no"
-    },
-    {
-        "id": 9,
         "name": "সার্ভিস রুল ও ডেলিগেশন",
         "url": "https://petrobangla.org.bd/site/page/5421ce35-c31c-4d59-9a59-7f063bcce0a0/-",
         "file": "no"
     },
     {
+        "id": 9,
+        "name": "নিয়োগ সংক্রান্ত",
+        "url": "https://petrobangla.org.bd/site/page/97e267f9-1a69-4325-bba4-c92372aa545f/-",
+        "file": "no"
+    },
+    {
         "id": 10,
-        "name": "প্রতিবেদন: বার্ষিক গোপনীয় প্রতিবেদন",
-        "url": "https://petrobangla.org.bd/site/view/reports/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8/-",
+        "name": "xxxxx",
+        "url": "xxxxxx",
+        "file": "no"
+    },
+    {
+        "id": 11,
+        "name": "প্রকল্পের তালিকা",
+        "url": "https://petrobangla.org.bd/site/view/projects/-",
+        "file": "no"
+    },
+    {
+        "id": 12,
+        "name": "অধ্যাদেশ ও আইন",
+        "url": "https://petrobangla.org.bd/site/page/2c4af9d2-4807-453d-bdb3-93c650449784/-",
+        "file": "no"
+    },
+    {
+        "id": 13,
+        "name": "বিধিমালা, প্রবিধানমালা, নীতিমালা, নিয়মাবলী এবং গাইডলাইন",
+        "url": "https://petrobangla.org.bd/site/page/fa8161e2-dbe7-43a4-be3a-9aa9b56a3e9d/-",
+        "file": "no"
+    },
+    {
+        "id": 14,
+        "name": "শুদ্ধাচার প্রজ্ঞাপন/নীতিমালা",
+        "url": "https://petrobangla.org.bd/site/page/7fffcc91-c1d5-43eb-afa7-4bc78c133de8/%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF-%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%A8",
+        "file": "no"
+    },
+    {
+        "id": 15,
+        "name": "xxxxx",
+        "url": "xxxxxx",
+        "file": "no"
+    },
+    {
+        "id": 16,
+        "name": "xxxxx",
+        "url": "xxxxxx",
+        "file": "no"
+    },
+    {
+        "id": 17,
+        "name": "xxxxx",
+        "url": "xxxxxx",
         "file": "no"
     }
 ]
