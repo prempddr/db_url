@@ -93,12 +93,12 @@
         "id": 16,
         "name": "জ্বালানি ড্যাশবোর্ড",
         "url": "https://emrddashboard.gov.bd/",
-        "file": "no"
+        "file": "yes"
     },
     {
         "id": 17,
         "name": "পেট্রোবাংলা ফেসবুক পেজ",
         "url": "https://www.facebook.com/102278174968413",
-        "file": "no"
+        "file": "yes"
     }
 ]
